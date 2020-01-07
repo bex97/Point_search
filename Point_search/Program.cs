@@ -8,8 +8,6 @@ namespace Point_search
 {
     class Program
     {
-        //Nowa linijka
-
         static bool search(int x1, int y1, int x2, int y2, int xp, int yp)
         {
             if (x1 == x2 && y1 == y2)
